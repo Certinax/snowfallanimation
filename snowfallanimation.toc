@@ -1,0 +1,10 @@
+## Interface-Cata: 40400
+
+
+## Title: SnowfallAnimation
+## Notes: All credits to the original work of snowfallkeypress and the animation rewrite from jButtonFlash.
+## IconTexture: Interface\Cooldown\star4
+## Version: 0.1
+## Author: Certinax
+
+snowfallanimation.lua
