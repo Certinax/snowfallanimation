@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 100207
 
 ## Title: SnowfallAnimation
 ## Notes: All credits to the original work of snowfallkeypress and the animation rewrite from jButtonFlash.
