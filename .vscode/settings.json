@@ -1,9 +1,0 @@
-{
-  "Lua.diagnostics.globals": [
-    "CreateFrame",
-    "hooksecurefunc",
-    "GetActionButtonForID",
-    "NUM_ACTIONBAR_BUTTONS",
-    "_G"
-  ]
-}
