@@ -1,8 +1,9 @@
 # SnowfallAnimation
 
+## Credits
 Based on the legendary SnowFallKeyPress https://github.com/Schaka/SnowfallKeyPress
 
-Refactor to only include the animation and added support for [Domnios](https://github.com/tullamods/Dominos) and [Bartender4](https://github.com/Nevcairiel/Bartender4) effect made by https://github.com/woldner/jButtonFlash
+A refactor to only include the animation and added support for [Domnios](https://github.com/tullamods/Dominos) and [Bartender4](https://github.com/Nevcairiel/Bartender4) effect made by https://github.com/woldner/jButtonFlash
 
 
-This project simply aims to support all flavors of World of Warcraft.
+Adjusted to keep it up to date with Cataclysm Classic.
