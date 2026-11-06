@@ -3,7 +3,7 @@
 ## Title: SnowfallAnimation
 ## Notes: All credits to the original work of snowfallkeypress and the animation rewrite from jButtonFlash.
 ## IconTexture: Interface\Cooldown\star4
-## Version: 1.0.2
+## Version: 1.0.3
 ## Author: Certinax
 
 snowfallanimation.lua
